@@ -17,7 +17,7 @@ window.title("Batch File")
 
 window.geometry('500x200')
 
-directory_base_check = '\\eccifs\home2$\jfkocher\home\Python Scripts\Practice\Practice Folder for Batch Production'
+directory_base_check = ''
 
 style = Style()
 #style.layout()
