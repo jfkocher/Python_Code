@@ -19,7 +19,7 @@ window.geometry('450x200')
 
 #window.configure(background = 'Gray64')
 
-directory_base_check = '\\eccifs\home2$\jfkocher\home\Python Scripts\Practice\Practice Folder for Batch Production'
+directory_base_check = ''
 
 style = Style()
 #style.layout()
